@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+    <?php 
     
+        echo "Hola GIT";
+    ?>
 </body>
 </html>
